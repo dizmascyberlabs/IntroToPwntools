@@ -1,0 +1,8 @@
+Dear buzz,
+
+I'm running a service on port 1337, which has an overflow vulnerability.
+I've left you a version that will run on port 1336 so that you can develop
+your exploit. 
+
+Sincerely,
+dizmas

@@ -1,0 +1,13 @@
+Dear buzz,
+
+For this last pwntools challenge, you will need to disable ASLR.
+I have provided a script for you to do so, which you can run as 
+sudo without a password. Just run:
+
+sudo ./disable_aslr.sh
+
+
+Good luck!
+
+Sincerely,
+dizmas
