@@ -11,8 +11,8 @@ void print_flag() {
 }
 
 void start(){
-	char buffer[24];
-	gets(buffer);
+	char name[24];
+	gets(name);
 }
 
 
