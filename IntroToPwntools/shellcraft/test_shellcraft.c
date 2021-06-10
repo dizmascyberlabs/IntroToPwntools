@@ -4,8 +4,8 @@
 
 
 void start(){
-	char buffer[64];
-	gets(buffer);
+	char input[64];
+	gets(input);
 }
 
 
